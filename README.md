@@ -14,7 +14,7 @@
 
 ## Deployed at
 
-- https://shanmukh-twimba.vercel.app/
+- (https://asarahmed.github.io/Twimba/)
 
 ## Screenshots of the app
 
